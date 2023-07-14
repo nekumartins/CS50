@@ -8,7 +8,7 @@ void print_bulb(int bit);
 
 int main(void)
 {
-    // TODO
+    string text = get_string("Enter text here: ")
 }
 
 void print_bulb(int bit)
